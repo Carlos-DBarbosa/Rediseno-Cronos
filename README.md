@@ -1,6 +1,6 @@
-# Rediseno-Cronos
+# Rediseño-Cronos
 
-### Descripcion
+### Descripción
 
 En el siguiente trabajo se presenta el proceso para el desarrollo de la solución a la problemática abordada a partir de la solicitud realizada por la empresa OLSoftware
 S.A.S. la cual consiste en el rediseño de la aplicación de gestión de proyectos
